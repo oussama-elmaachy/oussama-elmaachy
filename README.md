@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:0d1117&height=200&section=header&text=Hi%2C%20I'm%20Oussama%20EL%20MAACHY%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=480&lines=DATA%20ENGINEER%20-%20ANALYTICS%20ENGINEER;Always%20building%20something%20new" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700+Code&size=22&pause=1000&color=0078A4&center=true&vCenter=true&width=480&lines=DATA%20ENGINEER%20-%20ANALYTICS%20ENGINEER;Always%20building%20something%20new" alt="Typing SVG" /></p>
 
 <p align="center">
   <a href="https://github.com/oussama-elmaachy"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=0078D4" alt="GitHub"/></a>
@@ -28,15 +28,16 @@ I like designing scalable data architectures, writing ETL/ELT workflows, and bui
 - **Data engineering:** Databricks, Fabric, Data Factory, Spark
 - **Analytics engineering:** dbt, SQL, data modeling, Power BI
 - **Cloud:** Azure
-- **Tools:** Git, VS Code
+- **Tools:** Git, VS Code, Tabular Editor, Dax Studio
+  
 
 <table align="center">
   <tr>
-    <td align="center" width="110"><img src="assets/powerbi.svg" width="56" height="56" alt="Power BI"/><br/><sub>Power BI</sub></td>
+    <td align="center" width="110"><img src="pictures/powerbi.svg" width="56" height="56" alt="Power BI"/><br/><sub>Power BI</sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="56" height="56" alt="Python"/><br/><sub>Python</sub></td>
-    <td align="center" width="110"><img src="assets/databricks.svg" width="56" height="56" alt="Databricks"/><br/><sub>Databricks</sub></td>
-    <td align="center" width="110"><img src="assets/sql.svg" width="56" height="56" alt="SQL"/><br/><sub>SQL</sub></td>
-    <td align="center" width="110"><img src="assets/fabric.svg" width="56" height="56" alt="Microsoft Fabric"/><br/><sub>Fabric</sub></td>
+    <td align="center" width="110"><img src="pictures/databricks.svg" width="56" height="56" alt="Databricks"/><br/><sub>Databricks</sub></td>
+    <td align="center" width="110"><img src="pictures/sql.svg" width="56" height="56" alt="SQL"/><br/><sub>SQL</sub></td>
+    <td align="center" width="110"><img src="pictures/fabric.svg" width="56" height="56" alt="Microsoft Fabric"/><br/><sub>Fabric</sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="56" height="56" alt="Azure"/><br/><sub>Azure</sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="56" height="56" alt="Git"/><br/><sub>Git</sub></td>
   </tr>
