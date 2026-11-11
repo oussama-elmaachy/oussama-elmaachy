@@ -30,15 +30,33 @@ I like designing scalable data architectures, writing ETL/ELT workflows, and bui
 - **Cloud:** Azure
 - **Tools:** Git, VS Code
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/Databricks-0d1117?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="Databricks"/>
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Fabric-0d1117?style=for-the-badge&logo=microsoft&logoColor=0078D4" alt="Microsoft Fabric"/>
-  <img src="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="110"><img src="assets/powerbi.svg" width="56" height="56" alt="Power BI"/><br/><sub>Power BI</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="56" height="56" alt="Python"/><br/><sub>Python</sub></td>
+    <td align="center" width="110"><img src="assets/databricks.svg" width="56" height="56" alt="Databricks"/><br/><sub>Databricks</sub></td>
+    <td align="center" width="110"><img src="assets/sql.svg" width="56" height="56" alt="SQL"/><br/><sub>SQL</sub></td>
+    <td align="center" width="110"><img src="assets/fabric.svg" width="56" height="56" alt="Microsoft Fabric"/><br/><sub>Fabric</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="56" height="56" alt="Azure"/><br/><sub>Azure</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="56" height="56" alt="Git"/><br/><sub>Git</sub></td>
+  </tr>
+</table>
+
+## 🏅 Certifications
+
+**Databricks**
+
+- Databricks Data Engineer Professional
+- Databricks Data Engineer Associate
+- Databricks Data Analyst Associate
+- Databricks Machine Learning Associate
+
+**Microsoft**
+- Azure Databricks Data Engineer Associate (DP-750)
+- Fabric Data Engineer Associate (DP-700)
+- Fabric Analytics Engineer Associate (DP-600)
+- Power BI Data Analyst Associate (PL-300)
+- Azure Data Fundamentals (DP-900)
 
 ## 🎯 Currently focused on
 
