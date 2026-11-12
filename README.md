@@ -48,8 +48,8 @@ I like designing scalable data architectures, writing ETL/ELT workflows, and bui
 
 **Microsoft**
 
-<table>
-  <tr><td width="60"><img src="certifs/dp750.png" width="100" alt="DP-750"/></td><td>Azure Databricks Data Engineer Associate (DP-750)</td></tr>
+<table >
+  <tr><td width="100"><img src="certifs/dp750.png" width="100" alt="DP-750"/></td><td width="375">Azure Databricks Data Engineer Associate (DP-750)</td></tr>
   <tr><td><img src="certifs/dp900.png" width="100" alt="DP-900"/></td><td>Azure Data Fundamentals (DP-900)            </td></tr>
   <tr><td><img src="certifs/dp600.png" width="100" alt="DP-600"/></td><td>Fabric Analytics Engineer Associate (DP-600)</td></tr>
   <tr><td><img src="certifs/dp700.png" width="100" alt="DP-700"/></td><td>Fabric Data Engineer Associate (DP-700)</td></tr>
@@ -58,11 +58,11 @@ I like designing scalable data architectures, writing ETL/ELT workflows, and bui
 
 **Databricks**
 
-<table>
-  <tr><td><img src="certifs/databricks_DA1.jpg" width="55" alt="Databricks Data Analyst Associate"/></td><td>Databricks Data Analyst Associate</td></tr>
-  <tr><td><img src="certifs/databricks_DE.png" width="55" alt="Databricks Data Engineer Associate"/></td><td>Databricks Data Engineer Associate</td></tr>
-  <tr><td><img src="certifs/databricks_DE_pro.png" width="55" alt="Databricks Data Engineer Professional"/></td><td>Databricks Data Engineer Professional</td></tr>
-  <tr><td><img src="certifs/databricks_ml.png" width="55" alt="Databricks Machine Learning Associate"/></td><td>Databricks Machine Learning Associate</td></tr>
+<table width="300">
+  <tr><td width="100"><img src="certifs/databricks_DA1.jpg" width="75" alt="Databricks Data Analyst Associate"/></td><td width="375">Databricks Data Analyst Associate</td></tr>
+  <tr><td width="100"><img src="certifs/databricks_DE.png" width="75" alt="Databricks Data Engineer Associate"/></td><td>Databricks Data Engineer Associate</td></tr>
+  <tr><td width="100"><img src="certifs/databricks_DE_pro.png" width="75" alt="Databricks Data Engineer Professional"/></td><td>Databricks Data Engineer Professional</td></tr>
+  <tr><td width="100"><img src="certifs/databricks_ml.png" width="75" alt="Databricks Machine Learning Associate"/></td><td>Databricks Machine Learning Associate</td></tr>
 </table>
 
 
@@ -90,8 +90,6 @@ I'm interested in data engineering, analytics, open source, and sharing what I l
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-elmaachy&background=0d1117&ring=0078D4&fire=0078D4&currStreakLabel=0078D4&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=0078D4" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oussama-elmaachy&bg_color=0d1117&color=0078D4&line=0078D4&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:0d1117&height=250&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="footer banner" />
