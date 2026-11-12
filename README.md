@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:0d1117&height=2
-50&section=header&text=Hi%2C%20I'm%20Oussama%20EL%20MAACHY%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:0d1117&height=250&section=header&text=Hi%2C%20I'm%20Oussama%20EL%20MAACHY%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700+Code&size=22&pause=1000&color=0078A4&center=true&vCenter=true&width=480&lines=DATA%20ENGINEER%20-%20ANALYTICS%20ENGINEER;Always%20building%20something%20new" alt="Typing SVG" /></p>
 
@@ -49,7 +48,7 @@ I like designing scalable data architectures, writing ETL/ELT workflows, and bui
 **Microsoft**
 
 <table >
-  <tr><td width="100"><img src="certifs/dp750.png" width="100" alt="DP-750"/></td><td width="375">Azure Databricks Data Engineer Associate (DP-750)</td></tr>
+  <tr><td width="100"><img src="certifs/dP750.png" width="100" alt="DP-750"/></td><td width="375">Azure Databricks Data Engineer Associate (DP-750)</td></tr>
   <tr><td><img src="certifs/dp900.png" width="100" alt="DP-900"/></td><td>Azure Data Fundamentals (DP-900)            </td></tr>
   <tr><td><img src="certifs/dp600.png" width="100" alt="DP-600"/></td><td>Fabric Analytics Engineer Associate (DP-600)</td></tr>
   <tr><td><img src="certifs/dp700.png" width="100" alt="DP-700"/></td><td>Fabric Data Engineer Associate (DP-700)</td></tr>
@@ -64,11 +63,6 @@ I like designing scalable data architectures, writing ETL/ELT workflows, and bui
   <tr><td width="100"><img src="certifs/databricks_DE_pro.png" width="75" alt="Databricks Data Engineer Professional"/></td><td>Databricks Data Engineer Professional</td></tr>
   <tr><td width="100"><img src="certifs/databricks_ml.png" width="75" alt="Databricks Machine Learning Associate"/></td><td>Databricks Machine Learning Associate</td></tr>
 </table>
-
-
-
-
-
 
 
 ## 🎯 Currently focused on
