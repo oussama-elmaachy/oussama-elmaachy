@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:0d1117&height=200&section=header&text=Hi%2C%20I'm%20Oussama%20EL%20MAACHY%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:0d1117&height=2
+50&section=header&text=Hi%2C%20I'm%20Oussama%20EL%20MAACHY%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700+Code&size=22&pause=1000&color=0078A4&center=true&vCenter=true&width=480&lines=DATA%20ENGINEER%20-%20ANALYTICS%20ENGINEER;Always%20building%20something%20new" alt="Typing SVG" /></p>
 
@@ -29,8 +30,7 @@ I like designing scalable data architectures, writing ETL/ELT workflows, and bui
 - **Analytics engineering:** dbt, SQL, data modeling, Power BI
 - **Cloud:** Azure
 - **Tools:** Git, VS Code, Tabular Editor, Dax Studio
-  
-
+ 
 <table align="center">
   <tr>
     <td align="center" width="110"><img src="pictures/powerbi.svg" width="56" height="56" alt="Power BI"/><br/><sub>Power BI</sub></td>
@@ -45,19 +45,31 @@ I like designing scalable data architectures, writing ETL/ELT workflows, and bui
 
 ## 🏅 Certifications
 
-**Databricks**
-
-- Databricks Data Engineer Professional
-- Databricks Data Engineer Associate
-- Databricks Data Analyst Associate
-- Databricks Machine Learning Associate
 
 **Microsoft**
-- Azure Databricks Data Engineer Associate (DP-750)
-- Fabric Data Engineer Associate (DP-700)
-- Fabric Analytics Engineer Associate (DP-600)
-- Power BI Data Analyst Associate (PL-300)
-- Azure Data Fundamentals (DP-900)
+
+<table>
+  <tr><td width="60"><img src="certifs/dp750.png" width="100" alt="DP-750"/></td><td>Azure Databricks Data Engineer Associate (DP-750)</td></tr>
+  <tr><td><img src="certifs/dp900.png" width="100" alt="DP-900"/></td><td>Azure Data Fundamentals (DP-900)            </td></tr>
+  <tr><td><img src="certifs/dp600.png" width="100" alt="DP-600"/></td><td>Fabric Analytics Engineer Associate (DP-600)</td></tr>
+  <tr><td><img src="certifs/dp700.png" width="100" alt="DP-700"/></td><td>Fabric Data Engineer Associate (DP-700)</td></tr>
+  <tr><td width="60"><img src="certifs/pl300.png" width="100" alt="PL-300"/></td><td>Power BI Data Analyst Associate (PL-300)</td></tr>
+</table>
+
+**Databricks**
+
+<table>
+  <tr><td><img src="certifs/databricks_DA1.jpg" width="55" alt="Databricks Data Analyst Associate"/></td><td>Databricks Data Analyst Associate</td></tr>
+  <tr><td><img src="certifs/databricks_DE.png" width="55" alt="Databricks Data Engineer Associate"/></td><td>Databricks Data Engineer Associate</td></tr>
+  <tr><td><img src="certifs/databricks_DE_pro.png" width="55" alt="Databricks Data Engineer Professional"/></td><td>Databricks Data Engineer Professional</td></tr>
+  <tr><td><img src="certifs/databricks_ml.png" width="55" alt="Databricks Machine Learning Associate"/></td><td>Databricks Machine Learning Associate</td></tr>
+</table>
+
+
+
+
+
+
 
 ## 🎯 Currently focused on
 
@@ -82,4 +94,4 @@ I'm interested in data engineering, analytics, open source, and sharing what I l
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=oussama-elmaachy&bg_color=0d1117&color=0078D4&line=0078D4&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:0d1117&height=100&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:0d1117&height=250&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="footer banner" />
