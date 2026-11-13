@@ -58,7 +58,7 @@ I like designing scalable data architectures, writing ETL/ELT workflows, and bui
 **Databricks**
 
 <table width="300">
-  <tr><td width="100"><img src="certifs/databricks_DA1.jpg" width="75" alt="Databricks Data Analyst Associate"/></td><td width="375">Databricks Data Analyst Associate</td></tr>
+  <tr><td width="100"><img src="certifs/databricks_DA.png" width="75" alt="Databricks Data Analyst Associate"/></td><td width="375">Databricks Data Analyst Associate</td></tr>
   <tr><td width="100"><img src="certifs/databricks_DE.png" width="75" alt="Databricks Data Engineer Associate"/></td><td>Databricks Data Engineer Associate</td></tr>
   <tr><td width="100"><img src="certifs/databricks_DE_pro.png" width="75" alt="Databricks Data Engineer Professional"/></td><td>Databricks Data Engineer Professional</td></tr>
   <tr><td width="100"><img src="certifs/databricks_ml.png" width="75" alt="Databricks Machine Learning Associate"/></td><td>Databricks Machine Learning Associate</td></tr>
