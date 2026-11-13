@@ -58,11 +58,19 @@ I like designing scalable data architectures, writing ETL/ELT workflows, and bui
 **Databricks**
 
 <table width="300">
-  <tr><td width="100"><img src="certifs/databricks_DA1.jpg" width="75" alt="Databricks Data Analyst Associate"/></td><td width="375">Databricks Data Analyst Associate</td></tr>
+  <tr><td width="100"><img src="certifs/databricks_DA.png" width="75" alt="Databricks Data Analyst Associate"/></td><td width="375">Databricks Data Analyst Associate</td></tr>
   <tr><td width="100"><img src="certifs/databricks_DE.png" width="75" alt="Databricks Data Engineer Associate"/></td><td>Databricks Data Engineer Associate</td></tr>
   <tr><td width="100"><img src="certifs/databricks_DE_pro.png" width="75" alt="Databricks Data Engineer Professional"/></td><td>Databricks Data Engineer Professional</td></tr>
   <tr><td width="100"><img src="certifs/databricks_ml.png" width="75" alt="Databricks Machine Learning Associate"/></td><td>Databricks Machine Learning Associate</td></tr>
 </table>
+
+## 🚀 Achievements
+
+
+- 🚆 **Transport operator:** consolidated 40+ Power BI reports into one optimized semantic model, and cut data processing time by 60% by automating Databricks and Azure Data Factory pipelines
+- 🎓 **Transport operator:** coached apprentices from onboarding to code review, bringing them up to speed on Power BI, SQL and Python
+- ⚙️ **Internal projects:** designed Microsoft Fabric pipelines and Power BI dashboards, and prepared the clean data used to train and tune machine learning models
+- 🛍️ **Luxury retail group:** delivered Power BI reports used by 150+ business users, and migrated 15+ Cognos reports to Power BI after validating the underlying datasets
 
 
 ## 🎯 Currently focused on
