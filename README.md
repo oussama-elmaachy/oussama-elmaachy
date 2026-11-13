@@ -48,7 +48,7 @@ I like designing scalable data architectures, writing ETL/ELT workflows, and bui
 **Microsoft**
 
 <table >
-  <tr><td width="100"><img src="certifs/dp750.png" width="100" alt="DP-750"/></td><td width="375">Azure Databricks Data Engineer Associate (DP-750)</td></tr>
+  <tr><td width="100"><img src="certifs/dP750.png" width="100" alt="DP-750"/></td><td width="375">Azure Databricks Data Engineer Associate (DP-750)</td></tr>
   <tr><td><img src="certifs/dp900.png" width="100" alt="DP-900"/></td><td>Azure Data Fundamentals (DP-900)            </td></tr>
   <tr><td><img src="certifs/dp600.png" width="100" alt="DP-600"/></td><td>Fabric Analytics Engineer Associate (DP-600)</td></tr>
   <tr><td><img src="certifs/dp700.png" width="100" alt="DP-700"/></td><td>Fabric Data Engineer Associate (DP-700)</td></tr>
@@ -65,6 +65,7 @@ I like designing scalable data architectures, writing ETL/ELT workflows, and bui
 </table>
 
 ## 🚀 Achievements
+
 
 - 🚆 **Transport operator:** consolidated 40+ Power BI reports into one optimized semantic model, and cut data processing time by 60% by automating Databricks and Azure Data Factory pipelines
 - 🎓 **Transport operator:** coached apprentices from onboarding to code review, bringing them up to speed on Power BI, SQL and Python
