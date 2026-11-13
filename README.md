@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:0d1117&height=2
-50&section=header&text=Hi%2C%20I'm%20Oussama%20EL%20MAACHY%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:0d1117&height=250&section=header&text=Hi%2C%20I'm%20Oussama%20EL%20MAACHY%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700+Code&size=22&pause=1000&color=0078A4&center=true&vCenter=true&width=480&lines=DATA%20ENGINEER%20-%20ANALYTICS%20ENGINEER;Always%20building%20something%20new" alt="Typing SVG" /></p>
 
@@ -65,10 +64,12 @@ I like designing scalable data architectures, writing ETL/ELT workflows, and bui
   <tr><td width="100"><img src="certifs/databricks_ml.png" width="75" alt="Databricks Machine Learning Associate"/></td><td>Databricks Machine Learning Associate</td></tr>
 </table>
 
+## 🚀 Achievements
 
-
-
-
+- 🚆 **Transport operator:** consolidated 40+ Power BI reports into one optimized semantic model, and cut data processing time by 60% by automating Databricks and Azure Data Factory pipelines
+- 🎓 **Transport operator:** coached apprentices from onboarding to code review, bringing them up to speed on Power BI, SQL and Python
+- ⚙️ **Internal projects:** designed Microsoft Fabric pipelines and Power BI dashboards, and prepared the clean data used to train and tune machine learning models
+- 🛍️ **Luxury retail group:** delivered Power BI reports used by 150+ business users, and migrated 15+ Cognos reports to Power BI after validating the underlying datasets
 
 
 ## 🎯 Currently focused on
