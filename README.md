@@ -84,13 +84,19 @@ I like designing scalable data architectures, writing ETL/ELT workflows, and bui
 
 I'm interested in data engineering, analytics, open source, and sharing what I learn with the tech community.
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=oussama-elmaachy&show_icons=true&bg_color=0d1117&title_color=0078D4&icon_color=0078D4&text_color=c9d1d9&border_color=0078D4" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oussama-elmaachy&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-elmaachy&background=0d1117&ring=0078D4&fire=0078D4&currStreakLabel=0078D4&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=0078D4" alt="GitHub Streak" />
+      <img src="https://ghchart.rshah.org/11d452/oussama-elmaachy" alt="Contribution chart"  />
 </p>
+
+
+
+
 
 
 
